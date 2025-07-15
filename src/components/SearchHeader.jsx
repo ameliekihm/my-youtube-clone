@@ -37,7 +37,7 @@ export default function SearchHeader() {
       </form>
 
       <p className='flex text-sm whitespace-nowrap items-center'>
-        Created by Kaylee
+        Created by Amelie
       </p>
     </header>
   );
