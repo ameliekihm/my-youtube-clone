@@ -1,9 +1,7 @@
 # YouTube Clone Project 📌
-<img width="1229" alt="Screenshot 2024-08-02 at 10 09 56 PM" src="https://github.com/user-attachments/assets/3f9a6da9-f7cb-406f-80d2-869081f6ca95">
-
-<img width="1156" alt="Screenshot 2024-08-02 at 10 11 17 PM" src="https://github.com/user-attachments/assets/4ea11a6b-7daf-4fc2-85ba-0601372e5c03">
-
-<img width="1160" alt="Screenshot 2024-08-02 at 10 41 01 PM" src="https://github.com/user-attachments/assets/c6d87338-9089-4c62-84f2-4d27f095d4e9">
+<img width="1229" height="670" alt="Image" src="https://github.com/user-attachments/assets/a4a736d2-b8d1-4338-a5ac-c21d6ef86d2f" />
+<img width="1156" height="671" alt="Image" src="https://github.com/user-attachments/assets/a4fe0993-e09b-4699-8418-4ea54354d423" />
+<img width="1160" height="665" alt="Image" src="https://github.com/user-attachments/assets/ffb64fed-4360-49e8-9f89-c639962444bf" />
 
 Click here to view the live project deployed on Netlify. ➡️ https://amelie-youtube.netlify.app/
 
