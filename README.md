@@ -5,7 +5,7 @@
 
 <img width="1160" alt="Screenshot 2024-08-02 at 10 41 01 PM" src="https://github.com/user-attachments/assets/c6d87338-9089-4c62-84f2-4d27f095d4e9">
 
-Click here to view the live project deployed on Netlify. ➡️ https://kaylee-youtube.netlify.app/
+Click here to view the live project deployed on Netlify. ➡️ https://amelie-youtube.netlify.app/
 
 ## Description
 
